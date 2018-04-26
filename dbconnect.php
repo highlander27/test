@@ -21,5 +21,6 @@ if ($mysqli->connect_errno) {
     exit;
 }
     // ещё один коммент
+    // и ещё один 
 
 ?>
